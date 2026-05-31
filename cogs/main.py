@@ -1,6 +1,7 @@
 # main.py
 """Contains error handling and the help and about commands"""
 
+import utils.session
 from typing import TYPE_CHECKING
 
 import discord
